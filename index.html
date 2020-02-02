@@ -1,0 +1,60 @@
+---
+layout: default
+title: Portfolio
+---
+
+<h1>Portfolio</h1>
+
+<p>Welcome to the portfolio of <strong>Liz Lorena Berberena</strong>. I'm a front-end web developer at work <em>and</em> in my free time! I graduated May 2019 from Rutgers University in New Brunswick, NJ with a B.A. in Information Technology and Informatics and currently work as a Junior Web Producer full-time. You can see the source code of all my finished and in-progress projects on my <a href="http://github.lizlorena.com" target="_blank">Github</a> and connect with me on <a href="http://linkedin.com/in/lizlorena" target="_blank">LinkedIn</a>.
+
+<p>Here's a gallery of <strong><span>
+
+
+            {% assign counter = 0 %}
+            {% for post in site.posts %}      
+
+            {% if post.relevant != "no" %}
+            {% assign counter = counter | plus: 1 %}
+            {% endif %}
+            
+            {% endfor %}
+            {{ counter }}
+
+
+        </span> things</strong> that I've made or am making:</p>
+
+<div id="work">
+
+    {% for post in site.posts %}
+    
+    {% if post.relevant != "no" %}
+    <div class="post">
+        <img src="https://lizlorena.com/img/{{ post.img }}" class="img-fluid">
+        <div class="header">
+            <p class="date">{{ post.category }}</p>
+                    
+            {% if post.external != "yes" %}
+            <a href="{{ post.link }}">
+                <h1>{{ post.title }}</h1>
+            </a>
+                    {% else %}
+            <a href="{{ post.link }}" target="_blank">
+                <h1>{{ post.title }}</h1>
+            </a>
+             {% endif %}
+            <p class="date">{{ post.projectDate }}</p>
+        </div>
+        <p class="excerpt">{{ post.excerpt }}<br><br>
+                    
+          {% if post.external != "yes" %}
+            <a href="{{ post.link }}" class="more">More about this →</a>
+                    {% else %}
+            <a href="{{ post.link }}" class="more" target="_blank">More about this →</a>
+                    {% endif %}
+        </p>
+    </div>
+
+    {% endif %}
+    {% endfor %}
+
+</div>
