@@ -96,7 +96,7 @@ first-letter/*, div.post p.excerpt::first-letter*/ {
 }
 div#credits p {
 	font-size: 10pt;
-	color: gray;
+	color: black;
 	line-height: 30px;
 }
 p.categories a {
