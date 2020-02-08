@@ -849,6 +849,10 @@ div#content p.date, div#post-header p.date {
 	color: gray;
 }
 
+div#content p.date {
+	color: black;
+}
+
 div#post-header p.date {
 	text-align: left;
 }
