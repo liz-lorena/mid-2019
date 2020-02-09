@@ -4,7 +4,7 @@ title: Blackjack Text Game
 projectDate: December 2015
 category: Java Game
 role: Game Developer
-img: blackjack.png
+img: blackjack.jpg
 link: http://github.com/cozymaus/cs-blackjack
 excerpt: This is my first game made in Java.
 relevant: "no"
