@@ -33,7 +33,7 @@ title: Old and Unrelated Projects
                 <h1>{{ post.title }}</h1>
             </a>
                     {% else %}
-            <a href="{{ post.link }}" target="_blank">
+            <a href="{{ post.link }}" rel="noopener" target="_blank">
                 <h1>{{ post.title }}</h1>
             </a>
              {% endif %}
@@ -44,7 +44,7 @@ title: Old and Unrelated Projects
           {% if post.external != "yes" %}
             <a href="{{ post.link }}" class="more">More about this →</a>
                     {% else %}
-            <a href="{{ post.link }}" class="more" target="_blank">More about this →</a>
+            <a href="{{ post.link }}" class="more" rel="noopener" target="_blank">More about this →</a>
                     {% endif %}
         </p>
     </div>
