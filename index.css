@@ -924,10 +924,6 @@ div#content table td {
 	border: white;
 }
 
-div#content table td:nth-child(1) {
-	width: 200px;
-}
-
 div#content table {
 	border: white;
 }
@@ -936,8 +932,15 @@ p, h1, h2, h3, h4, h5, h6, li {
 	color: black;
 }
 
-@media (min-width: 768px) {	
+div#content table td:nth-child(1) {
+width:100%;
+}
 
+@media (min-width: 768px) {	
+	
+	div#content table td:nth-child(1) {
+	width: 200px;
+}
 	/*Tooltips*/
 	#s-m-t-tooltip {
 		background-color: #fafafa;
@@ -1235,11 +1238,5 @@ p, h1, h2, h3, h4, h5, h6, li {
 
 	div#content img.img-fluid.rightfloat {
 		float: right;
-	}
-}
-
-@media (max-width:600px){
-	div#content table td {
-		width:100%!important;
 	}
 }
