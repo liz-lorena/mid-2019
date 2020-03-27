@@ -933,14 +933,12 @@ p, h1, h2, h3, h4, h5, h6, li {
 }
 
 div#content table td:nth-child(1) {
-width:100%;
+	width: 200px;
 }
 
 @media (min-width: 768px) {	
 	
-	div#content table td:nth-child(1) {
-	width: 200px;
-}
+	
 	/*Tooltips*/
 	#s-m-t-tooltip {
 		background-color: #fafafa;
