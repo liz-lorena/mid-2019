@@ -963,6 +963,10 @@ div.data {
 	div.columnOne, div.columnTwo {
 		width:100%!important;
 	}
+
+	div.columnOne {
+		border-bottom: 2px solid #AD002A;
+	}
 }
 
 @media (min-width: 768px) {	
