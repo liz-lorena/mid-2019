@@ -936,9 +936,39 @@ div#content table td:nth-child(1) {
 	width: 200px;
 }
 
+div.columnOne {
+	width:20%;
+}
+
+div.columnTwo {
+	width:80%;
+}
+
+div.columnOne, div.columnTwo {
+	display: block;
+	position:relative;
+	padding: 5px;
+	float: left;
+}
+
+div.data {
+	width:100%;
+	margin: 0 0 40px 0;
+	display:block;
+	position:relative;
+	float: left;
+}
+
+@media (max-width: 600px) {
+	div.columnOne, div.columnTwo {
+		width:100%!important;
+	}
+}
+
 @media (min-width: 768px) {	
 	
-	
+
+
 	/*Tooltips*/
 	#s-m-t-tooltip {
 		background-color: #fafafa;
