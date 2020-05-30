@@ -3,7 +3,7 @@ layout: default
 title: Portfolio
 ---
 
-<h1>Portfolio</h1>
+<h1>Portfolio by Liz Lorena</h1>
 
 <p>Welcome to the programming portfolio of <strong>Liz Lorena Berberena</strong>. My specialty is front-end web development! I graduated May 2019 from Rutgers University in New Brunswick, NJ with a B.A. in Information Technology and Informatics and currently work as a Web Producer full-time. You can see the source code of all my finished and in-progress projects on my <a href="http://github.lizlorena.com" target="_blank" rel="noopener">Github</a> and connect with me on <a href="http://linkedin.com/in/lizlorena" target="_blank" rel="noopener">LinkedIn</a>.
 
@@ -21,7 +21,7 @@ title: Portfolio
             {{ counter }}
 
 
-        </span> things</strong> that I've made or am making:</p>
+        </span> things</strong> that I've made or am making related to web development:</p>
 
 <div id="work">
 
@@ -55,6 +55,57 @@ title: Portfolio
     </div>
 
     {% endif %}
+    {% endfor %}
+
+</div>
+
+<h2 id="gamedev" style="display:inline; visibility: hidden;">Game Development</h2>
+
+<p>Here's a gallery of <strong><span>
+
+
+            {% assign counter = 0 %}
+            {% for post in site.posts %}      
+            {% if post.relevant == "no" %}  
+            {% assign counter = counter | plus: 1 %}
+            {% endif %}
+            {% endfor %}
+            {{ counter }}
+
+
+        </span> old things</strong> I made that are unrelated to web development.</p>
+
+<div id="work">
+
+    {% for post in site.posts %}
+
+    {% if post.relevant == "no" %}
+    <div class="post">
+        <img src="https://lizlorena.com/img/{{ post.img }}" class="img-fluid" alt="{{ post.title }}">
+        <div class="header">
+            <p class="date">{{ post.category }}</p>
+            {% if post.external != "yes" %}
+            <a href="{{ post.link }}">
+                <h1>{{ post.title }}</h1>
+            </a>
+                    {% else %}
+            <a href="{{ post.link }}" rel="noopener" target="_blank">
+                <h1>{{ post.title }}</h1>
+            </a>
+             {% endif %}
+            <p class="date">{{ post.projectDate }}</p>
+        </div>
+        <p class="excerpt">{{ post.excerpt }}<br><br>
+                    
+          {% if post.external != "yes" %}
+            <a href="{{ post.link }}" class="more">More about this →</a>
+                    {% else %}
+            <a href="{{ post.link }}" class="more" rel="noopener" target="_blank">More about this →</a>
+                    {% endif %}
+        </p>
+    </div>
+    {% endif %}
+
     {% endfor %}
 
 </div>
