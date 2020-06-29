@@ -704,10 +704,10 @@ div#content ul li::before {
 	padding-bottom: 3%;
 }
 email::before {
-	content: "LizLBerberena@gmail.com";
+	content: "liz@cozymaus.com";
 }
 form::before {
-	content: "LizLBerberena@gmail.com";
+	content: "liz@cozymaus.com";
 	display: block;
 	bottom: 0;
 	color: white;
