@@ -9,7 +9,7 @@ link: /projects/third-portfolio
 excerpt: My third portfolio was an original multi-page design made with HTML and CSS and uses Jekyll.
 ---
 
-<img src="https://lizlorena.com/img/thirdportfolio.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/thirdportfolio.png" alt="" class="img-fluid"/>
 
 <p class="caption"><a href="https://cozymaus.github.io/portfolio-2018" target="_blank">Visit Site</a> • <a href="https://github.com/cozymaus/portfolio-2018" target="_blank">Source Code</a></p>
 
@@ -17,10 +17,10 @@ excerpt: My third portfolio was an original multi-page design made with HTML and
 
 <p>I was really excited when I made this site, so here are some GIFs of me showing it off in its first complete look. I only picked that shade of green because it matched the foliage in that photo, okay!</p>
 
-<img src="https://lizlorena.com/img/newportfoliositemobile.gif" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/newportfoliositemobile.gif" alt="" class="img-fluid"/>
 
 <p class="caption">The work page made me especially happy.</p>
 
-<img src="https://lizlorena.com/img/TAGS.gif" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/TAGS.gif" alt="" class="img-fluid"/>
 
 <p class="caption">Freaking out because I figured out tags</p>
