@@ -10,13 +10,13 @@ excerpt: This is my second game made in Java, and it is a text-adventure.
 relevant: "no"
 ---
 
-<img src="https://lizlorena.com/img/escapegame.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/escapegame.png" alt="" class="img-fluid"/>
 
 <p class="caption"><a href="https://github.com/cozymaus/oop-text-adventure" target="_blank">View Source Code</a></p>
 
 <p>This wasn't the first game I made with Java, but it was definitely the better one I made and something that I had actually wanted to make for a while. The first complete Java game I made was my computer science final project my freshman year of college, and it was basically just Black Jack but without a GUI. You can check out that train wreck <a href="https://github.com/cozymaus/cs-blackjack" target="_blank">here</a>, but be warned: the code is atrocious because it's an enormous loop around many smaller loops.</p>
 
-<p>Anyway, the second complete Java game I did was a text adventure which takes place in a haunted mansion. It was the final group project for my junior object oriented programming class in college. The controls are simple as it's just entering commands from the list of available commands, as is typical in text adventures. I grasped Object classes much easier in this class, which made for a better game with much&nbsp;<em>much</em> better code. I had always wanted to make a game like this, so I can cross that off my bucket list.</p>
+<p>Anyway, the second complete Java game I did was a text adventure which takes place in a haunted mansion. It was the final group project for my junior object oriented programming class in college. The controls are simple as it's just entering commands from the list of available commands, as is typical in text adventures. I grasped Object classes much easier in this class, which made for a better game with much, <em>much</em> better code. I had always wanted to make a game like this, so I can cross that off my bucket list.</p>
 
 <h4>The Take Away</h4>
 
