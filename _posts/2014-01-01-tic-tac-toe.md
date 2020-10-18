@@ -10,7 +10,7 @@ excerpt: This is my first completed game made in Visual Basic.
 relevant: "no"
 ---
 
-<img src="https://lizlorena.com/img/tictactoe2.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/tictactoe2.png" alt="" class="img-fluid"/>
 
 <p class="caption"><a href="https://github.com/cozymaus/games" target="_blank">Download Zip from Google Drive</a></p>
 
@@ -18,7 +18,7 @@ relevant: "no"
 
 <p>The final project requirements included adding features to the game, so I had the weird idea of making a 3x4 board and a timed mode for each board. The loop works like this: you type in the names of the two players, then select a board size and if it's timed or not. The way the game worked is that you had to choose who played first, and you had to click to end your turn, which is pretty bad design, but it's what I thought up on the fly at the time.</p>
 
-<img src="https://lizlorena.com/img/TicTacToe.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/TicTacToe.png" alt="" class="img-fluid"/>
 
 <h4>The Take Away</h4>
 
