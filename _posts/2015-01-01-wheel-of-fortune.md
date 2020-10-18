@@ -10,7 +10,7 @@ excerpt: This is my second completed game made with MIT's Scratch game-design to
 relevant: "no"
 ---
 
-<img src="https://lizlorena.com/img/scratchgame2.png" class="img-fluid">
+<img src="https://cozymaus.com/img/scratchgame2.png" class="img-fluid">
 
 <p class="caption"><a href="https://scratch.mit.edu/projects/45665508/" target="_blank">Play on Scratch.MIT.edu</a></p>
 
