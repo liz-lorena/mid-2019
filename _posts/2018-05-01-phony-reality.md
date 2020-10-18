@@ -10,7 +10,7 @@ excerpt: This is my second game made in the Unity game engine. It's a 3D walking
 relevant: "no"
 ---
 
-<img src="https://lizlorena.com/img/phonyrealitymenuyoyod.gif" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/phonyrealitymenuyoyod.gif" alt="" class="img-fluid"/>
 
 <p class="caption"><a href="https://github.com/cozymaus/games" target="_blank">Download Zip from Google Drive</a></p>
 
@@ -20,5 +20,5 @@ relevant: "no"
 
 <p>Also, not to spoil anything, but the themes in this game are something I want to incorporate in my current game as well.</p>
 
-<img src="https://lizlorena.com/img/PhonyReality2.png" alt="" class="img-fluid"/>
-<img src="https://lizlorena.com/img/PhonyReality3.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/PhonyReality2.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/PhonyReality3.png" alt="" class="img-fluid"/>
