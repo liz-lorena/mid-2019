@@ -5,7 +5,7 @@ projectDate: January 2015
 category: Scratch Game
 role: Game Developer
 img: scratchgame.jpg
-link: /projects/wheel-of-fortune
+link: /portfolio-2019/projects/wheel-of-fortune
 excerpt: This is my second completed game made with MIT's Scratch game-design tool.
 relevant: "no"
 ---
