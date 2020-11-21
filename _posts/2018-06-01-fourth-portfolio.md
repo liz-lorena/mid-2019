@@ -9,11 +9,11 @@ link: /projects/fourth-portfolio
 excerpt: My fourth portfolio is an original design made with HTML, CSS, Bootstrap, and some Javascript.
 ---
 
-<img src="https://cozymaus.com/img/portfoliomid2018mobile.png" alt="" class="img-fluid"/>
+<img src="https://lizlorena.com/img/portfoliomid2018mobile.png" alt="" class="img-fluid"/>
 
-<p class="caption"><a href="http://cozymaus.com/portfolio-2018-v2" target="_blank">Visit Site</a> • <a href="https://github.com/cozymaus/portfolio-2018-v2">Source Code</a></p>
+<p class="caption"><a href="http://lizlorena.com/portfolio-2018-v2" target="_blank">Visit Site</a> • <a href="https://github.com/cozymaus/portfolio-2018-v2">Source Code</a></p>
 
-<img src="https://cozymaus.com/img/portfoliomid2018desktop.png" alt="" class="img-fluid"/>
+<img src="https://lizlorena.com/img/portfoliomid2018desktop.png" alt="" class="img-fluid"/>
 
 <p class="caption">Yes, I made these just for this post.</p>
 
@@ -21,8 +21,8 @@ excerpt: My fourth portfolio is an original design made with HTML, CSS, Bootstra
 
 <p>Here's the mobile site in action:</p>
 
-<img src="https://cozymaus.com/img/portfolio2018onmobile.gif" alt="" class="img-fluid"/>
+<img src="https://lizlorena.com/img/portfolio2018onmobile.gif" alt="" class="img-fluid"/>
 
 <p>Here's a <a href="https://addons.mozilla.org/en-US/firefox/addon/fireshot/" target="_blank" rel="nofollow">screenshot</a> of the entire landing page with graphics of all my best projects thus far:</p>
 
-<img src="https://cozymaus.com/img/portfoliobylizorg.png" alt="" class="img-fluid"/>
+<img src="https://lizlorena.com/img/portfoliobylizorg.png" alt="" class="img-fluid"/>
