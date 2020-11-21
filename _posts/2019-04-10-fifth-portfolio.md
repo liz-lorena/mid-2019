@@ -5,7 +5,7 @@ projectDate: April 2019 - Present
 category: HTML Website
 role: Web Designer
 img: fifthportfolio.jpg
-link: https://cozymaus.com/portfolio-2019
+link: https://lizlorena.com/portfolio-2019
 excerpt: My fifth portfolio is an original design made with HTML and CSS.
 external: "yes"
 ---
