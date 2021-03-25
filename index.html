@@ -29,7 +29,7 @@ title: Portfolio
     
     {% if post.relevant != "no" %}
     <div class="post">
-        <img src="https://lizlorena.com/img/{{ post.img }}" class="img-fluid" alt="{{ post.title }}">
+        <img src="{{ site.url }}/img/{{ post.img }}" class="img-fluid" alt="{{ post.title }}">
         <div class="header">
             <p class="date">{{ post.category }}</p>
                     
@@ -81,7 +81,7 @@ title: Portfolio
 
     {% if post.relevant == "no" %}
     <div class="post">
-        <img src="https://lizlorena.com/img/{{ post.img }}" class="img-fluid" alt="{{ post.title }}">
+        <img src="{{ site.url }}/img/{{ post.img }}" class="img-fluid" alt="{{ post.title }}">
         <div class="header">
             <p class="date">{{ post.category }}</p>
             {% if post.external != "yes" %}
