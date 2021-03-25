@@ -1,7 +1,7 @@
 # Site Info
 title:              "Liz Lorena"
 description:        "This is the online design and development portfolio of Liz Lorena."
-image:              https://lizlorena.com/img/me.jpg
+image:              {{ site.url }}/img/me.jpg
 
 # Author Info
 author_name:        "Liz Lorena Berberena"
