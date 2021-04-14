@@ -5,7 +5,7 @@ projectDate: August 2018 - Present
 category: HTML Page
 role: Web Designer
 img: linkspage.jpg
-link: https://lizlorena.com
+link: https://lizberberena.com/links
 excerpt: This page includes a short bio and links to my personal blogs.
 external: "yes"
 ---
