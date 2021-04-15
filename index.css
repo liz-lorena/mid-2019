@@ -704,7 +704,7 @@ div#content ul li::before {
 	padding-bottom: 3%;
 }
 email::before {
-	content: "hello@lizlorena.com";
+	content: "hi@lizberberena.com";
 }
 form::before {
 	content: "hello@lizlorena.com";
