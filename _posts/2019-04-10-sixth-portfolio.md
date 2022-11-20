@@ -5,7 +5,7 @@ projectDate: April 2019 - Present
 category: HTML Website
 role: Web Designer
 img: fifthportfolio.jpg
-link: https://lizberberena.com/mid-2019
+link: https://github.com/lizberberena/lizberberena
 excerpt: My sixth portfolio is an original design made with HTML and CSS.
 external: "yes"
 ---
