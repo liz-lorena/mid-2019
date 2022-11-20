@@ -5,6 +5,6 @@ projectDate: Summer 2018
 category: HTML Website
 role: Web Designer
 img: fourthportfolio.jpg
-link: /2021/projects/fourth-portfolio
+link: https://github.com/lizberberena/lizberberena
 excerpt: My fourth portfolio is an original design made with HTML, CSS, Bootstrap, and some Javascript.
 ---
