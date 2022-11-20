@@ -5,7 +5,7 @@ projectDate: December 2018
 category: Board Game
 role: Game Designer
 img: boardgame.jpg
-link: /mid-2019/projects/game-design-board-game
+link: https://docs.google.com/presentation/d/e/2PACX-1vRLu_9NC9Lc0cx4s-yF2kJZW7VAq6vnGazdldI_QZ4kI3cPid9vasu5F5Y8BZA-QZi8yekKMIaxuqP0/pub?start=false&loop=false&delayms=3000
 excerpt: This was the final project for my Game Design Methodology course in which I and 4 team mates designed a game and built a board game prototype of it. My contributions included the rulebook cover art, some asset art, playtesting, proofreading, and help with game design.
 relevant: "no"
 ---
