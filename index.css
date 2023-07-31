@@ -101,7 +101,7 @@ div#credits p {
 }
 p.categories a {
 	font-family: serif;
-	text-transform: capitalize;
+	text-transform: capitae;
 }
 span.cat {
 	font-family: serif;
@@ -704,10 +704,10 @@ div#content ul li::before {
 	padding-bottom: 3%;
 }
 email::before {
-	content: "hi@lizberberena.com";
+	content: "lys@irisoflys.com";
 }
 form::before {
-	content: "hi@lizberberena.com";
+	content: "lys@irisoflys.com";
 	display: block;
 	bottom: 0;
 	color: white;
