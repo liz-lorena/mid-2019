@@ -5,6 +5,6 @@ projectDate: Fall 2017
 category: HTML Website
 role: Web Designer
 img: secondportfolio.jpg
-link: https://github.com/lizberberena/lizberberena
+link: https://github.com/irisoflys/irisoflys
 excerpt: My second portfolio was an original multi-page design made with HTML, CSS, Bootstrap, and jQuery.
 ---
