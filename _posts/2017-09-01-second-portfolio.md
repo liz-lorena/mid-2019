@@ -4,7 +4,7 @@ title: My Second Portfolio
 projectDate: Fall 2017
 category: HTML Website
 role: Web Designer
-img: secondportfolio.jpg
+img: secondportfolio.png
 link: https://github.com/irisoflys/irisoflys
 excerpt: My second portfolio was an original multi-page design made with HTML, CSS, Bootstrap, and jQuery.
 ---
