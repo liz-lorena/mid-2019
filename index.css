@@ -633,7 +633,7 @@ div#comments {
 }
 /*Main Area*/
 div#main-area a:hover {
-	color: pink;
+	color: #A8EEDD;
 }
 
 div#content img.img-fluid, img.img-fluid.leftfloat, img.img-fluid.rightfloat {
@@ -914,7 +914,7 @@ p a, a h1, td a, li a, h2 a, h3 a, h4 a {
 }
 
 p a:hover, p a:active, p a:focus, a h1:hover, a h1:active, a h1:focus {
-	color: pink;
+	color: #A8EEDD;
 }
 
 div#content table td {
