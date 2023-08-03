@@ -1,11 +1,11 @@
 /*Fonts*/
 ::-moz-selection { /* Code for Firefox */
 	color: white;
-	background: #AD002A;
+	background: #00B38B;
 }
 ::selection {
 	color: white;
-	background: #AD002A;
+	background: #00B38B;
 }
 
 div.container-fluid {
@@ -53,7 +53,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: serif;
 }
 body {
-	background-color: #fff6f8;
+	background-color: #F3EFFF;
 }
 div#content p, div#content table td, div#content ul li, div.widget-body p, div.widget-body h2, div.widget-body ul li, div#credits p, div.widget-body select {
 	font-family: sans-serif;
@@ -73,7 +73,7 @@ div.post {
 	border-bottom: solid 1px rgba(0,0,0,0.1);
 	margin-bottom: 30px;
 	padding-bottom: 10px;
-	border-bottom: 5px solid #AD002A;
+	border-bottom: 5px solid #00B38B;
 	background-color: white;
 }
 
@@ -138,7 +138,7 @@ div#mobile-menu ul li {
 	margin: 0px 10px 0px 10px;
 }
 div#mobile-menu li a:hover {
-	color: #AD002A;
+	color: #00B38B;
 	background-color: white;
 }
 div#mobile-menu li a {
@@ -226,7 +226,7 @@ div#top-menu-right ul li, div#footer-widgets div.widget ul li {
 	padding: 5px;
 }
 div#top-menu-right ul li a:hover, div#top-menu-left ul li a:hover {
-	color: #AD002A;
+	color: #00B38B;
 }
 div#footer-widgets div.widget ul, div.widget div#socials ul {
 	list-style: none;
@@ -359,7 +359,7 @@ div#drop-header div.dropdown span i.fas.fa-chevron-down {
 	margin-top: 15px;
 	margin-left: 50%;
 	/*color: black;*/
-	color: #AD002A;
+	color: #00B38B;
 }
 div#drop-header {
 	display: block;
@@ -406,7 +406,7 @@ div#drop-header .dropdown-content li a {
 }
 
 div#drop-header .dropdown-content li a:hover {
-	color: #AD002A;
+	color: #00B38B;
 }
 /*Header*/
 div#header {
@@ -417,7 +417,7 @@ div#header {
 	position: fixed;
 	z-index: 1;
 	box-shadow: 0px 3px 10px 0px rgba(0,0,0,0.2);
-	border-bottom: 5px solid #AD002A;
+	border-bottom: 5px solid #00B38B;
 	/*background: linear-gradient(-90deg, #08aca2, #4639a5);
 	background-size: 200% 200%;
 	-webkit-animation: Gradient 5s ease infinite;
@@ -909,7 +909,7 @@ img.home-img.larger {
 }
 
 p a, a h1, td a, li a, h2 a, h3 a, h4 a {
-	color: #AD002A;
+	color: #00B38B;
 	transition: all 0.3s;
 }
 
@@ -965,7 +965,7 @@ div.data {
 	}
 
 	div.columnOne {
-		border-bottom: 2px solid #AD002A;
+		border-bottom: 2px solid #00B38B;
 	}
 }
 
