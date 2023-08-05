@@ -53,7 +53,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: serif;
 }
 body {
-	background-color: #F3EFFF;
+	background: linear-gradient(0deg, rgb(243, 239, 255) 0%, rgb(255, 255, 255) 100%);
 }
 div#content p, div#content table td, div#content ul li, div.widget-body p, div.widget-body h2, div.widget-body ul li, div#credits p, div.widget-body select {
 	font-family: sans-serif;
@@ -909,12 +909,12 @@ img.home-img.larger {
 }
 
 p a, a h1, td a, li a, h2 a, h3 a, h4 a {
-	color: #00B38B;
+	color: #4D01E0;
 	transition: all 0.3s;
 }
 
 p a:hover, p a:active, p a:focus, a h1:hover, a h1:active, a h1:focus {
-	color: #A8EEDD;
+	color: #A178E2;
 }
 
 div#content table td {
