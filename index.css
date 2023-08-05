@@ -631,11 +631,11 @@ div#comments {
 	padding: 0;
 	margin: 30px 0px 30px 0px;
 }
-/*Main Area*/
+/*Main Area
 div#main-area a:hover {
 	color: #A8EEDD;
 }
-
+*/
 div#content img.img-fluid, img.img-fluid.leftfloat, img.img-fluid.rightfloat {
 	width: 100%;
 	float: none;
