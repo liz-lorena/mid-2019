@@ -4,7 +4,7 @@ title: My Fourth Portfolio
 projectDate: Summer 2018
 category: HTML Website
 role: Web Designer
-img: fourthportfolio.png
+img: portfoliomid2018mobile.png
 link: https://github.com/irisoflys/irisoflys
 excerpt: My fourth portfolio is an original design made with HTML, CSS, Bootstrap, and some Javascript.
 ---
